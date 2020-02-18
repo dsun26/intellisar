@@ -1,4 +1,4 @@
-# IntelliSAR Web App
+# IntelliSAR Web Controller/App
 - Raspberry Pi 4B (Raspbian Buster)
 - Python 3.7
 - OpenCV 4 (pip install is sufficient)

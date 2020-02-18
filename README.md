@@ -3,6 +3,7 @@
 - Python 3.7
 - OpenCV 4 (pip install is sufficient)
 - Tensorflow 2
+- Robot: Yahboom G1 Tank (https://www.amazon.com/dp/B07KRVBGQM)
 
 ## OpenCV Setup
 From: https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/
